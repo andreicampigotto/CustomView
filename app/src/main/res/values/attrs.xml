@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ProgressButton">
+        <attr name="progress_button_tittle" format="string"/>
+        <attr name="progress_button_loading_tittle" format="string"/>
+    </declare-styleable>
+</resources>
